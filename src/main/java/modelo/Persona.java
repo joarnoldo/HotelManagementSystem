@@ -9,5 +9,6 @@ package modelo;
  * @author user
  */
 public class Persona {
+    String nombreString;
     
 }
