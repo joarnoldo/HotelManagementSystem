@@ -8,9 +8,8 @@ package modelo.habitacion;
  *
  * @author user
  */
-public class HabitacionSuperior extends Habitacion implements InterfaceHabitacion{
+public class HabitacionSencilla extends Habitacion implements InterfaceHabitacion{
 
-    
     
     
     
